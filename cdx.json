@@ -1,0 +1,55 @@
+{
+  "keys": {
+    "trial": {
+      "lastUpdate": "2024-10-01",
+      "keys": {
+        "TRIAL-9F7A2B1D45": { "expirationDays": 3, "banned": false },
+        "TRIAL-5B4E9C3F82": { "expirationDays": 3, "banned": false },
+        "TRIAL-7D8A9E1F65": { "expirationDays": 3, "banned": false },
+        "TRIAL-2C4B7A9F58": { "expirationDays": 3, "banned": false },
+        "TRIAL-6E1F9A2B73": { "expirationDays": 3, "banned": false },
+        "TRIAL-3F2C8E9B74": { "expirationDays": 3, "banned": false },
+        "TRIAL-5A1B9D3E84": { "expirationDays": 3, "banned": false },
+        "TRIAL-8C7A2D4F63": { "expirationDays": 3, "banned": false },
+        "TRIAL-4F9E1B7C65": { "expirationDays": 3, "banned": false },
+        "TRIAL-7B3E2C9A85": { "expirationDays": 3, "banned": false }
+      }
+    },
+    "weekly": {
+      "lastUpdate": "2024-10-01",
+      "keys": {
+        "WEEKLY-8E1B7F2C94": { "expirationDays": 7, "banned": false },
+        "WEEKLY-5A3E7C9B82": { "expirationDays": 7, "banned": false },
+        "WEEKLY-9F4A2B7C65": { "expirationDays": 7, "banned": false },
+        "WEEKLY-3D9E5A4B76": { "expirationDays": 7, "banned": false },
+        "WEEKLY-7A9F2C5E84": { "expirationDays": 7, "banned": false },
+        "WEEKLY-6B8A3E9C51": { "expirationDays": 7, "banned": false },
+        "WEEKLY-2F7B1C5D98": { "expirationDays": 7, "banned": false },
+        "WEEKLY-9C8D4B3F71": { "expirationDays": 7, "banned": false },
+        "WEEKLY-3E1F7A9B45": { "expirationDays": 7, "banned": false },
+        "WEEKLY-6C4B9A8E73": { "expirationDays": 7, "banned": false }
+      }
+    },
+    "monthly": {
+      "lastUpdate": "2024-10-01",
+      "keys": {
+        "MONTHLY-4A2F8C9B73": { "expirationDays": 30, "banned": false },
+        "MONTHLY-9E7B3C4A65": { "expirationDays": 30, "banned": false },
+        "MONTHLY-3D8A5F7C94": { "expirationDays": 30, "banned": false },
+        "MONTHLY-1F9C4B6A85": { "expirationDays": 30, "banned": false },
+        "MONTHLY-6B9F8D7A24": { "expirationDays": 30, "banned": false },
+        "MONTHLY-2E7A5C9B63": { "expirationDays": 30, "banned": false },
+        "MONTHLY-5C8F7B9A31": { "expirationDays": 30, "banned": false },
+        "MONTHLY-9B4D6F2A87": { "expirationDays": 30, "banned": false },
+        "MONTHLY-7A9C3E4B62": { "expirationDays": 30, "banned": false },
+        "MONTHLY-3F6B9D2A85": { "expirationDays": 30, "banned": false }
+      }
+    },
+    "developer": {
+      "lastUpdate": "2024-10-01",
+      "keys": {
+        "DEV-1A2B3C4D5E": { "expirationDays": 0, "banned": false }
+      }
+    }
+  }
+}
