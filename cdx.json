@@ -3,52 +3,82 @@
     "trial": {
       "lastUpdate": "2024-10-01",
       "keys": {
-        "TRIAL-9F7A2B1D45": { "expirationDays": 3, "banned": false },
-        "TRIAL-5B4E9C3F82": { "expirationDays": 3, "banned": false },
-        "TRIAL-7D8A9E1F65": { "expirationDays": 3, "banned": false },
-        "TRIAL-2C4B7A9F58": { "expirationDays": 3, "banned": false },
-        "TRIAL-6E1F9A2B73": { "expirationDays": 3, "banned": false },
-        "TRIAL-3F2C8E9B74": { "expirationDays": 3, "banned": false },
-        "TRIAL-5A1B9D3E84": { "expirationDays": 3, "banned": false },
-        "TRIAL-8C7A2D4F63": { "expirationDays": 3, "banned": false },
-        "TRIAL-4F9E1B7C65": { "expirationDays": 3, "banned": false },
-        "TRIAL-7B3E2C9A85": { "expirationDays": 3, "banned": false }
+        "TRIAL-1A2B3C4D5E": { "expirationDays": 3, "banned": false },
+        "TRIAL-6F7E8D9C2A": { "expirationDays": 3, "banned": false },
+        "TRIAL-7B8A9C1D3E": { "expirationDays": 3, "banned": false },
+        "TRIAL-3C4D5E6F7A": { "expirationDays": 3, "banned": false },
+        "TRIAL-8A7B6C5D9E": { "expirationDays": 3, "banned": false },
+        "TRIAL-2F4C7B1D8A": { "expirationDays": 3, "banned": false },
+        "TRIAL-9D8A5C7B4F": { "expirationDays": 3, "banned": false },
+        "TRIAL-5A6B9E7C1D": { "expirationDays": 3, "banned": false },
+        "TRIAL-4D6F9B8A2C": { "expirationDays": 3, "banned": false },
+        "TRIAL-5B4E9C3F82": { "expirationDays": 3, "banned": true }  // Забаненный ключ
       }
     },
     "weekly": {
       "lastUpdate": "2024-10-01",
       "keys": {
-        "WEEKLY-8E1B7F2C94": { "expirationDays": 7, "banned": false },
-        "WEEKLY-5A3E7C9B82": { "expirationDays": 7, "banned": false },
-        "WEEKLY-9F4A2B7C65": { "expirationDays": 7, "banned": false },
-        "WEEKLY-3D9E5A4B76": { "expirationDays": 7, "banned": false },
-        "WEEKLY-7A9F2C5E84": { "expirationDays": 7, "banned": false },
-        "WEEKLY-6B8A3E9C51": { "expirationDays": 7, "banned": false },
-        "WEEKLY-2F7B1C5D98": { "expirationDays": 7, "banned": false },
-        "WEEKLY-9C8D4B3F71": { "expirationDays": 7, "banned": false },
-        "WEEKLY-3E1F7A9B45": { "expirationDays": 7, "banned": false },
-        "WEEKLY-6C4B9A8E73": { "expirationDays": 7, "banned": false }
+        "WEEKLY-1C2D3E4F5G": { "expirationDays": 7, "banned": false },
+        "WEEKLY-6A7B8C9D1E": { "expirationDays": 7, "banned": false },
+        "WEEKLY-2F3G4H5J6K": { "expirationDays": 7, "banned": false },
+        "WEEKLY-8B9A1C2D3F": { "expirationDays": 7, "banned": false },
+        "WEEKLY-3E4F5G6H7A": { "expirationDays": 7, "banned": false },
+        "WEEKLY-7C8D9A1B2F": { "expirationDays": 7, "banned": false },
+        "WEEKLY-4G5H6J7K8L": { "expirationDays": 7, "banned": false },
+        "WEEKLY-9A1B2C3D4E": { "expirationDays": 7, "banned": false },
+        "WEEKLY-5F6G7H8J9K": { "expirationDays": 7, "banned": false },
+        "WEEKLY-9F4A2B7C65": { "expirationDays": 7, "banned": true }  // Забаненный ключ
       }
     },
     "monthly": {
       "lastUpdate": "2024-10-01",
       "keys": {
-        "MONTHLY-4A2F8C9B73": { "expirationDays": 30, "banned": false },
-        "MONTHLY-9E7B3C4A65": { "expirationDays": 30, "banned": false },
-        "MONTHLY-3D8A5F7C94": { "expirationDays": 30, "banned": false },
-        "MONTHLY-1F9C4B6A85": { "expirationDays": 30, "banned": false },
-        "MONTHLY-6B9F8D7A24": { "expirationDays": 30, "banned": false },
-        "MONTHLY-2E7A5C9B63": { "expirationDays": 30, "banned": false },
-        "MONTHLY-5C8F7B9A31": { "expirationDays": 30, "banned": false },
-        "MONTHLY-9B4D6F2A87": { "expirationDays": 30, "banned": false },
-        "MONTHLY-7A9C3E4B62": { "expirationDays": 30, "banned": false },
-        "MONTHLY-3F6B9D2A85": { "expirationDays": 30, "banned": false }
+        "MONTHLY-1E2F3G4H5J": { "expirationDays": 30, "banned": false },
+        "MONTHLY-6K7L8M9N1A": { "expirationDays": 30, "banned": false },
+        "MONTHLY-2B3C4D5E6F": { "expirationDays": 30, "banned": false },
+        "MONTHLY-8J9K1A2B3C": { "expirationDays": 30, "banned": false },
+        "MONTHLY-3D4E5F6G7H": { "expirationDays": 30, "banned": false },
+        "MONTHLY-7A8B9C1D2E": { "expirationDays": 30, "banned": false },
+        "MONTHLY-4G5H6J7K8L": { "expirationDays": 30, "banned": false },
+        "MONTHLY-9M1N2A3B4C": { "expirationDays": 30, "banned": false },
+        "MONTHLY-5F6G7H8J9K": { "expirationDays": 30, "banned": false },
+        "MONTHLY-5C8F7B9A31": { "expirationDays": 30, "banned": true }  // Забаненный ключ
+      }
+    },
+    "3months": {
+      "lastUpdate": "2024-10-01",
+      "keys": {
+        "3MONTH-1A2B3C4D5E": { "expirationDays": 90, "banned": false },
+        "3MONTH-6F7E8D9C2A": { "expirationDays": 90, "banned": false },
+        "3MONTH-7B8A9C1D3E": { "expirationDays": 90, "banned": false },
+        "3MONTH-3C4D5E6F7A": { "expirationDays": 90, "banned": false },
+        "3MONTH-8A7B6C5D9E": { "expirationDays": 90, "banned": false },
+        "3MONTH-2F4C7B1D8A": { "expirationDays": 90, "banned": false },
+        "3MONTH-9D8A5C7B4F": { "expirationDays": 90, "banned": false },
+        "3MONTH-5A6B9E7C1D": { "expirationDays": 90, "banned": false },
+        "3MONTH-4D6F9B8A2C": { "expirationDays": 90, "banned": false },
+        "3MONTH-7E5A9D2C8B": { "expirationDays": 90, "banned": true }  // Забаненный ключ
+      }
+    },
+    "year": {
+      "lastUpdate": "2024-10-01",
+      "keys": {
+        "YEAR-1E2F3G4H5J": { "expirationDays": 365, "banned": false },
+        "YEAR-6K7L8M9N1A": { "expirationDays": 365, "banned": false },
+        "YEAR-2B3C4D5E6F": { "expirationDays": 365, "banned": false },
+        "YEAR-8J9K1A2B3C": { "expirationDays": 365, "banned": false },
+        "YEAR-3D4E5F6G7H": { "expirationDays": 365, "banned": false },
+        "YEAR-7A8B9C1D2E": { "expirationDays": 365, "banned": false },
+        "YEAR-4G5H6J7K8L": { "expirationDays": 365, "banned": false },
+        "YEAR-9M1N2A3B4C": { "expirationDays": 365, "banned": false },
+        "YEAR-5F6G7H8J9K": { "expirationDays": 365, "banned": false },
+        "YEAR-2A5B9D7C4E": { "expirationDays": 365, "banned": true }  // Забаненный ключ
       }
     },
     "developer": {
       "lastUpdate": "2024-10-01",
       "keys": {
-        "DEV-1A2B3C4D5E": { "expirationDays": 0, "banned": false }
+        "DEV-1A2B3C4D5E": { "expirationDays": 0, "banned": false }  // Ключ разработчика, без срока
       }
     }
   }
