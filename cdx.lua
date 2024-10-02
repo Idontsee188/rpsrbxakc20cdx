@@ -1,3 +1,15 @@
+-- Сервисы Roblox
+local UserInputService = game:GetService("UserInputService")
+
+-- UI элементы
+local textBox = script.Parent.Key -- TextBox, где вводится ключ
+local enterButton = script.Parent.Enter -- Кнопка Enter для проверки ключа
+local originalText = "" -- Хранение оригинального текста
+
+-- Звуки
+local ErrorSound = script.Error
+local SuccessSound = script.Success
+
 -- Ключевая база данных с сгенерированными ключами
 local keysDatabase = {
     trial = {
@@ -99,11 +111,37 @@ local keysDatabase = {
             { key = "YEAR-1C2E5A7B9D", expirationDays = 365, banned = false },
             { key = "YEAR-9E7A6B5C4D", expirationDays = 365, banned = false }
         }
-    },
-    developer = {
-        lastUpdate = "2024-10-01",
-        keys = {
-            { key = "DEV-1A2B3C4D5E", expirationDays = 0, banned = false } -- Разработчик, бесконечный срок
-        }
     }
 }
+
+-- Проверка ключа
+local function checkKey(key)
+    for category, categoryData in pairs(keysDatabase) do
+        for _, keyData in ipairs(categoryData.keys) do
+            if keyData.key == key then
+                if keyData.banned then
+                    return "Этот ключ заблокирован."
+                end
+                return "Ключ действителен! Доступ предоставлен."
+            end
+        end
+    end
+    return "Неверный ключ."
+end
+
+-- Обработка нажатия кнопки Enter
+enterButton.MouseButton1Click:Connect(function()
+    local keyInput = textBox.Text
+    if keyInput ~= originalText then
+        originalText = keyInput -- Сохранить текст ключа для последующей проверки
+        local result = checkKey(keyInput)
+        
+        if result == "Ключ действителен! Доступ предоставлен." then
+            SuccessSound:Play() -- Воспроизвести звук успеха
+        else
+            ErrorSound:Play() -- Воспроизвести звук ошибки
+        end
+        
+        textBox.Text = result -- Обновить текст в TextBox с результатом
+    end
+end)
