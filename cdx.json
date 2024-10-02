@@ -4,7 +4,7 @@
       "lastUpdate": "2024-10-01",
       "keys": {
         "TRIAL-9F7A2B1D45": { "expirationDays": 3, "banned": false },
-        "TRIAL-5B4E9C3F82": { "expirationDays": 3, "banned": true },  // Этот ключ забанен
+        "TRIAL-5B4E9C3F82": { "expirationDays": 3, "banned": false },
         "TRIAL-7D8A9E1F65": { "expirationDays": 3, "banned": false },
         "TRIAL-2C4B7A9F58": { "expirationDays": 3, "banned": false },
         "TRIAL-6E1F9A2B73": { "expirationDays": 3, "banned": false },
@@ -20,7 +20,7 @@
       "keys": {
         "WEEKLY-8E1B7F2C94": { "expirationDays": 7, "banned": false },
         "WEEKLY-5A3E7C9B82": { "expirationDays": 7, "banned": false },
-        "WEEKLY-9F4A2B7C65": { "expirationDays": 7, "banned": true },  // Этот ключ забанен
+        "WEEKLY-9F4A2B7C65": { "expirationDays": 7, "banned": false },
         "WEEKLY-3D9E5A4B76": { "expirationDays": 7, "banned": false },
         "WEEKLY-7A9F2C5E84": { "expirationDays": 7, "banned": false },
         "WEEKLY-6B8A3E9C51": { "expirationDays": 7, "banned": false },
@@ -39,7 +39,7 @@
         "MONTHLY-1F9C4B6A85": { "expirationDays": 30, "banned": false },
         "MONTHLY-6B9F8D7A24": { "expirationDays": 30, "banned": false },
         "MONTHLY-2E7A5C9B63": { "expirationDays": 30, "banned": false },
-        "MONTHLY-5C8F7B9A31": { "expirationDays": 30, "banned": true },  // Этот ключ забанен
+        "MONTHLY-5C8F7B9A31": { "expirationDays": 30, "banned": false },
         "MONTHLY-9B4D6F2A87": { "expirationDays": 30, "banned": false },
         "MONTHLY-7A9C3E4B62": { "expirationDays": 30, "banned": false },
         "MONTHLY-3F6B9D2A85": { "expirationDays": 30, "banned": false }
@@ -48,7 +48,7 @@
     "developer": {
       "lastUpdate": "2024-10-01",
       "keys": {
-        "DEV-1A2B3C4D5E": { "expirationDays": 0, "banned": false }  // Разработчик, не забанен
+        "DEV-1A2B3C4D5E": { "expirationDays": 0, "banned": false }
       }
     }
   }
