@@ -1,0 +1,67 @@
+{
+  "keys": {
+    "trial": {
+      "expirationDays": 3,
+      "banned": false,
+      "lastUpdated": "2024-09-30",
+      "keys": [
+        "3GFY7X-P2ZK6H-9WERTD", "2V7NTY-B9UK5S-P6DQWF", "9PLWZ7-D3J4KM-8FV5XY",
+        "7YKL3F-1DT8JH-V6ZQXP", "2F9GYX-P4VJL6-M3WDTR", "5HGTC9-ZX7BQL-F3YPVW",
+        "J9F3KH-6XTDBQ-2P7WGL", "8VJZP1-F5XTGH-M2K3NL", "4L7KPQ-FXT9VG-W5JQHL",
+        "Z1VD8F-L7MJQP-K4T6BX"
+      ]
+    },
+    "weekly": {
+      "expirationDays": 7,
+      "banned": false,
+      "lastUpdated": "2024-09-30",
+      "keys": [
+        "9CVB8H-3PLM7G-T6QDXV", "1PQMKF-J3X8LZ-F5TVGY", "4TX7FP-V6YJKM-8W2DQX",
+        "5F9THX-1PQZGV-B7M2WL", "2G6TVF-J5YPXQ-8M3DHK", "Z7JQGH-K5B9TX-2M8LPQ",
+        "8WL3MQ-4FZT2V-9Y5KGX", "V5ZKPT-F7JX8L-6DQ9MG", "J4MT8F-Q9VY5K-X7PLZB",
+        "2V5YTX-Z9JG7F-PQ3KLM"
+      ]
+    },
+    "monthly": {
+      "expirationDays": 30,
+      "banned": false,
+      "lastUpdated": "2024-09-30",
+      "keys": [
+        "2FP3TK-7B9JZL-M5YGQH", "J6FZT9-4PXQLM-3V7YGK", "5QXP2J-F9TKBV-Z8GM7L",
+        "7FT3XZ-V5QZML-9PKGHY", "1M8G2J-T5FPZV-Q4X7KL", "4Z7MKL-TF2Y6X-JQ9PGV",
+        "J9FT2X-8MG3PQ-L5K7VZ", "V9J7LM-T3K2PX-GQ5FTZ", "3FGY5M-Q9T6XZ-JLP8KV",
+        "9L2XTP-FK7M3Z-QYGJ5V"
+      ]
+    },
+    "3months": {
+      "expirationDays": 90,
+      "banned": false,
+      "lastUpdated": "2024-09-30",
+      "keys": [
+        "5L9GYF-V7KXP3-QJ4T2M", "X9M2VZ-T3FKL7-JG8PQ5", "2K5TPM-Q9J3F7-ZXLVY4",
+        "M3Y7GL-TXK2PQ-9F5JZL", "4FZKPQ-V9J8TG-X2LM7Y", "2FJ5P7-ZL4Y9X-MT6Q3K",
+        "T7L3QX-PM9F5V-2Z8JYG", "J8F9XK-QML2P7-5G3T6V", "K9XJL5-3PG2TV-8FZMQ7",
+        "8XT3LQ-KG9FP7-Z5V2MJ"
+      ]
+    },
+    "yearly": {
+      "expirationDays": 365,
+      "banned": false,
+      "lastUpdated": "2024-09-30",
+      "keys": [
+        "9F7ZKM-Q5T8VG-2LJ3XP", "L9M2FX-J7V5ZK-P3TQ4G", "2QZ7PT-XJ9MLG-5K3FVY",
+        "M5J2FG-TL9XP3-Q8Z7KX", "3FP8ZL-T9V2MK-J5Q7XG", "K7M5QT-XJ8P3L-9F2ZVY",
+        "J9LQ7F-M2X5PV-8G3TKZ", "7T8XMP-QK5LZJ-2VG3F9", "L3F7XP-T5QK9V-GM2Z8J",
+        "9G5T2V-PQ7XFL-MJ8K3Z"
+      ]
+    },
+    "developer": {
+      "expirationDays": -1,
+      "banned": false,
+      "lastUpdated": "2024-09-30",
+      "keys": [
+        "DEVKEY1"
+      ]
+    }
+  }
+}
