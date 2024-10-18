@@ -1,7 +1,7 @@
 {
   "keys": {
     "trial": {
-      "lastUpdate": "2024-10-13",
+      "lastUpdate": "2024-10-18",
       "keys": {
         "TRIAL-5A2F7D9C34": { "expirationDays": 3, "banned": false },
         "TRIAL-3E8B1F5A92": { "expirationDays": 3, "banned": false },
@@ -16,7 +16,7 @@
       }
     },
     "weekly": {
-      "lastUpdate": "2024-10-13",
+      "lastUpdate": "2024-10-18",
       "keys": {
         "WEEKLY-2F8A7D4B93": { "expirationDays": 7, "banned": false },
         "WEEKLY-9E5C1B8F34": { "expirationDays": 7, "banned": false },
@@ -31,7 +31,7 @@
       }
     },
     "monthly": {
-      "lastUpdate": "2024-10-13",
+      "lastUpdate": "2024-10-18",
       "keys": {
         "MONTHLY-7D3A5C9F82": { "expirationDays": 30, "banned": false },
         "MONTHLY-2F8B4D6A73": { "expirationDays": 30, "banned": false },
@@ -46,7 +46,7 @@
       }
     },
     "developer": {
-      "lastUpdate": "2024-10-13",
+      "lastUpdate": "2024-10-18",
       "keys": {
         "ANFISAKISA": { "expirationDays": 99999, "banned": false }
       }
